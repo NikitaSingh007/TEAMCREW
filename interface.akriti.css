@@ -1,0 +1,238 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+    font-family: 'Gill Sans';
+}
+
+html,body{
+    height:100%;
+    width:100%;
+}
+#main
+{
+    height:100%;
+    width:100%;
+}
+#header
+{
+    height:10%;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(66, 160, 248);
+}
+#header h1
+{
+    font-weight: 700;
+    color: rgb(6, 1, 66);
+    font-size: 50px;
+    margin: 10px;
+}
+#bigbox
+{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    
+} 
+#box1
+{
+    height: 100%;
+    width: 50%;
+} 
+
+#heading1
+{
+    height: 50%;
+    width:100%;
+    background-color: white;
+}
+#heading1 h2
+{
+    font-weight: 700;
+    color: rgb(6, 1, 66);
+    font-size: 50px;
+    margin: 1px;
+    align-items: center;
+    justify-content:center;
+}
+#heading2
+{
+    height: 50%;
+    width:100%;
+    background-color: rgb(164, 199, 254);
+}
+#box2
+{
+    height: 100%;
+    width: 50%;
+    /* margin: 10px;   */
+    overflow: hidden;
+} 
+#box2 img
+{
+    width:800px;
+    height:500px;
+}
+
+#bigbox1
+{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: 10px;
+    
+} 
+#Freshman
+{
+    width:20%;
+    height:98%;
+    overflow: hidden;
+    background-color: white;
+    border:1px solid pink;
+    border-radius:5%;
+    margin:20px;
+}
+#Freshman img{
+    width:370px;
+    height:250px;
+}
+#Freshman button
+{
+    font-weight: 1000;
+    color: rgb(3, 3, 97);
+    padding: 2px; 
+    margin-left: 120px;
+    margin-top: 1px;
+}
+#Freshman button:hover
+{
+    color: rgb(75, 181, 243);
+}
+
+#Sophomore
+{
+    width:20%;
+    height:98%;
+    overflow: hidden;
+    background-color: white;
+    border:1px solid pink;
+    border-radius:5%;
+    margin:20px;
+}
+#Sophomore img{
+    width:370px;
+    height:250px;
+}
+#Sophomore button
+{
+   
+    font-weight: 1000;
+    color: rgb(3, 3, 97);
+    padding: 2px; 
+    margin-left: 120px;
+    margin-top: 1px;
+}
+#Sophomore button:hover
+{
+    color: rgb(75, 181, 243);
+}
+
+#Junior
+{
+    width:20%;
+    height:98%;
+    overflow: hidden;
+    background-color: white;
+    border:1px solid pink;
+    border-radius:5%;
+    margin:20px;
+}
+#Junior img{
+    width:370px;
+    height:250px;
+}
+#Junior button
+{
+    font-weight: 1000;
+    color: rgb(3, 3, 97);
+    padding: 2px; 
+    margin-left: 120px;
+    margin-top: 1px;
+}
+#Junior button:hover
+{
+    color: rgb(75, 181, 243);
+}
+
+#Senior
+{
+    width:20%;
+    height:98%;
+    overflow: hidden;
+    background-color: white;
+    border:1px solid pink;
+    border-radius:5%;
+    margin:20px;
+}
+#Senior img{
+    width:370px;
+    height:250px;
+}
+#Senior button
+{
+    font-weight: 1000;
+    color: rgb(3, 3, 97);
+    padding: 2px; 
+    margin-left: 120px;
+    margin-top: 1px;
+}
+#Senior button:hover
+{
+    color: rgb(75, 181, 243);
+} 
+
+#heading3
+{
+    height: 5%;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(84, 75, 207);
+}
+#bigbox2
+{
+    height: 5%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin: 10px;
+
+} 
+#AP
+{
+    padding: 2px;
+    margin-left: 50px;
+    margin-top: 4px;
+}
+#KM
+{
+    padding: 2px;
+    margin-left: 50px;
+    margin-top: 4px;
+}
+#NS
+{
+    padding: 2px;
+    margin-left: 50px;
+    margin-top: 4px;
+}
+
