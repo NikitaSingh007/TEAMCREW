@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="2.ME.physics.css" />
+</head>
+<body>
+    <div id="header"><h1>PHYSICS II</h1></div>
+    <div id="fakeheader"></div>
+    <div id="syllabus"> 
+        
+        <h2>SYLLABUS</h2>
+        <pre>
+        Module 1:Vector Calculus:
+        1.1 Physical significances of grad, div, curl. Line integral, surface integral, volume integral- physical examples in the
+context of electricity and magnetism and statements of Stokes theorem and Gauss theorem [No Proof]. Expression of
+grad, div, curl and Laplacian in Spherical and Cylindrical co-ordinates.
+Module 2 :Electricity
+2.1 Coulumbs law in vector form. Electrostatic field and its curl. Gauss’s law in integral form and conversion to
+differential form . Electrostatic potential and field, Poisson’s Eqn. Laplace’s eqn (Application to Cartesian, Spherically
+and Cylindrically symmetric systems – effective 1D problems) Electric current, drift velocity, current density, continuity
+equation, steady current.
+2.2 Dielectrics-concept of polarization, the relation D=ε0E+P, Polarizability. Electronic polarization and polarization in
+monoatomic and polyatomic gases.
+Module 3: Magnetostatics & Time Varying Field: Lorentz force, force on a small current element placed in a magnetic
+field. Biot-Savart law and its applications, divergence of magnetic field, vector potential, Ampere’s law in integral form
+and conversion to differential form. Faraday’s law of electro- magnetic induction in integral form and conversion to
+differential form.
+Module 4: Electromagnetic Theory:
+4.1 Concept of displacement current Maxwell’s field equations, Maxwell’s wave equation and its solution for free space.
+E.M. wave in a charge free conducting media, Skin depth, physical significance of Skin Depth, E.M. energy flow, &
+Poynting Vector.Module
+5:Quantum Mechanics: 5.1 Generalised coordinates, Lagrange’s Equation of motion and Lagrangian, generalised force
+potential, momenta and energy. Hamilton’sEquation of motion and Hamiltonian. Properties of Hamilton and Hamilton’s
+equation of motion.
+Course should be discussed along with physical problems of 1-D motion
+5.2 Concept of probability and probability density, operators, commutator. Formulation of quantum mechanics and Basic
+postulates, Operator correspondence, Time dependent Schrödinger’s equation, formulation of time independent
+Schrödinger’s equation by method ofseparation of variables, Physical interpretation of wave function ψ (normalization
+and probability interpretation), Expectation values, Application of Schrödinger equation – Particle in an infinite square
+well potential (1-D and 3-D potential well), Discussion on degenerate levels.
+Module 6: Statistical Mechanics:
+3.1 Concept of energy levels and energy states. Microstates, macrostates and thermodynamic probability, equilibrium
+macrostate. MB, FD, BE statistics (No deduction necessary), fermions, bosons (definitions in terms of spin, examples),
+physical significance and application, classical limits of quantum statistics Fermi distribution at zero & non-zero
+temperature, Calculation of Fermi level in metals, also total energy at absolute zero of temperature and total number of
+particles, Bose-Einstein statistics – Planck’s law of blackbody radiation.</pre>
+        
+    
+
+    <div>
+        <h2>ASSOCIATED PROFESSORS</h2>
+        <pre>
+        David Awasthy
+        78543 79635
+        </pre>
+    </div>
+    </div>
+    </body>
+    </html>
