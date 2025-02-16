@@ -1,0 +1,41 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+    font-fa
+    mily: 'Gill Sans';
+}
+
+html,body{
+    height:100%;
+    width:100%;
+}
+#main
+{
+    height:100%;
+    width:100%;
+}
+#header
+{
+    height:10%;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(252, 165, 165);
+    position:fixed;
+}
+#fakeheader
+{
+    height:10%;
+    width:100%;
+}
+#syllabus
+{
+        height:90vh;
+        width:100%; 
+        background-color: rgb(210, 249, 199);
+        align-items: center;
+        justify-content:center;
+     
+}
