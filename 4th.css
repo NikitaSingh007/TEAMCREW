@@ -1,0 +1,128 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing:border-box;
+    font-fa
+    mily: 'Gill Sans';
+}
+html,body
+{
+    height:100%;
+    width:100%;
+}
+#main
+{
+    height:100%;
+    width:100%;
+}
+#header
+{
+    height:10%;
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(246, 220, 220);
+    position:fixed;
+}
+#header h1
+{
+    font-weight: 700;
+    color: rgb(4, 25, 99);
+    font-size: 50px;
+    margin: 10px;
+}
+#fakeheader
+{
+    height:10%;
+    width:100%;
+
+}
+#page1
+{
+    height:90vh;
+    width:100%; 
+    background-color: rgb(201, 196, 253);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+} 
+#page2
+{
+    height:90vh;
+    width:100%; 
+    background-color: rgb(57, 227, 253);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+} 
+#page3
+{
+    height:90vh;
+    width:100%; 
+    background-color: rgb(250, 170, 235);
+    display: flex;
+    align-items: center;
+    justify-content:center;
+} 
+#ME
+{
+    margin-left: 50px;
+    width:50%; 
+    background-color: rgb(231, 229, 252);
+}
+#ME h1{
+    margin-left: 100px;
+ }
+ #CSE
+ {
+     margin-right: 50px;
+     width:50%; 
+     background-color: rgb(231, 229, 252);
+     margin-left: 100px;
+ }
+ #CSE h1{
+     margin-left: 50px;
+ }
+ #EE
+ {
+     margin-left: 50px;
+     width:50%; 
+     background-color: rgb(170, 230, 250);
+ }
+ #EE h1
+ {
+     margin-left: 100px;
+ }
+ #CE
+ {
+     margin-right: 50px;
+     width:50%; 
+     background-color:  rgb(170, 230, 250);
+     margin-left: 100px;
+ }
+ #CE h1
+ {
+     margin-left: 100px;
+  }
+ #ECE
+ {
+     margin-right: 50px;
+     width:50%; 
+     background-color:  rgb(251, 187, 216);
+ }
+ #ECE h1
+ {
+     margin-left: 50px;
+  }
+ #IT
+ {
+     margin-right: 50px;
+     width:50%; 
+     background-color: rgb(251, 187, 216);
+     margin-left: 100px;
+ }
+ #IT h1
+ {
+     margin-left: 100px;
+  }
